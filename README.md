@@ -1,2 +1,2 @@
-# IWT-project
-1st year 2nd sem SLIIT (HTML , CSS , PHP ) 
+# frontend-project
+front end (HTML , CSS) 
